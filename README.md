@@ -19,7 +19,7 @@ A lightweight, high-performance **Manifest V3 Google Chrome Extension** designed
 
 ---
 
-## 🛠️ Project Structure
+##  Project Structure
 
 Your extension folder should contain the following files:
 

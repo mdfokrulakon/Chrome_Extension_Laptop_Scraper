@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "TechLand Laptop Scraper",
+  "version": "1.0",
+  "description": "Extracts laptop specifications directly from the browser DOM.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
